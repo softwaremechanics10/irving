@@ -1,0 +1,29 @@
+.inpatient {
+    width: 30%;
+    margin: auto;
+    padding: 10vh 0;
+}
+.outpatient {
+    width: 60%;
+    margin: auto;
+    padding: 10vh 0;
+}
+.partnership {
+    width: 80%;
+    margin: auto;
+    padding: 10vh 0;
+}
+
+.slider {
+    width: 100%;
+}
+
+.slide {
+    margin: auto;
+    width: 160px;
+}
+
+.title {
+    text-align: center;
+    font-size: 5vh;
+}

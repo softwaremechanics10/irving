@@ -1,0 +1,36 @@
+.services {
+    padding: 15vh 0;
+}
+
+.servicesTitle {
+    text-align: center;
+    font-size: 6vh;
+}
+
+.servicesSection {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    min-height: fit-content;
+    margin-top: 15vh;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 3vh 3vw;
+    box-shadow: 0 0 10px 0 rgb(240, 240, 240);
+}
+
+.servicesImage {
+    width: 25%;
+    object-fit: cover;
+    margin: 0 2vw;
+}
+
+.serviceHeading {
+    font-size: 4vh;
+    margin-bottom: 3vh;
+}
+
+.serviceInfo {
+    font-size: 2.4vh;
+    color: grey;
+}

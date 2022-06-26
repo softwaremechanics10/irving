@@ -1,0 +1,58 @@
+.stats {
+    width: 100%;
+    margin: auto;
+    padding: 15vh 0;
+    background-color: #F8F8F8;
+}
+
+.title {
+    width: 40%;
+    margin: 0 auto;
+    font-size: 5.5vh;
+    text-align: center;
+}
+
+.statsInner {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 10vh;
+}
+
+.statsItem {
+    text-align: center;
+}
+
+.statsItemTitle {
+    font-size: 5vh;
+}
+
+.statsItemSubtitle {
+    font-size: 2.2vh;
+    color: grey;
+    width: 150px;
+    margin: 0 auto;
+}
+
+/* .serviceTitle {
+    font-size: 5vh;
+    line-height: 7vh;
+    font-weight: 600;
+    margin-left: 10vw;
+}
+
+.checkIcon {
+    font-size: 25px;
+    margin-right: 1vw;
+    color: #662d91;
+}
+
+.serviceItem {
+    display: flex;
+    align-items: center;
+    margin: 3vh 0;
+    font-weight: 400;
+    font-size: 2.8vh;
+} */

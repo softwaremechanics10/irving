@@ -1,0 +1,101 @@
+ .slider {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10vh;
+}
+
+.slides {
+    margin: 2vh 1vw;
+    font-size: 2.2vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background: white; 
+    padding: 5vh 0;
+    border: 1px solid rgb(234, 234, 234);
+}
+
+
+.testimonialHeader {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slidePhoto {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    object-fit: cover;
+    margin-right: 1vw;
+}
+.slideFooterName {
+    font-weight: 600;
+    width: fit-content;
+    margin: auto;
+}
+
+.slideFooterDesig {
+
+}
+
+.testimonialBody {
+    position: relative;
+    padding: 2vh 3vw;
+    color: grey;
+}
+.quoteLeft {
+    position: absolute;
+    top: -40%;
+    left: 0;
+}
+/* .quoteRight {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+} */
+
+/* .quoteLeft {
+    font-size: 15px;
+    position: absolute;
+    top: 0;
+    left: 3vw;
+}
+
+.quoteRight {
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+    right: 3vw;
+} */
+
+
+
+.testimonialContainer {
+    width: 100%;
+    padding: 15vh 0;
+}
+
+.testimonialTitle {
+    width: 300px;
+    font-size: 5vh;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+}
+
+.testimonialButtons {
+    width: fit-content;
+    position: absolute;
+    top: 0;
+    right: -100%;
+}
+
+.arrows {
+    font-size: 35px;
+    margin: 0 0.5vw;
+    cursor: pointer;
+    color: grey;
+}

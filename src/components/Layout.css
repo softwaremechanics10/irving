@@ -1,0 +1,9 @@
+body {
+    font-family: Poppins;
+}
+
+.layout {
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 85vh;
+}

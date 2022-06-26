@@ -1,0 +1,39 @@
+.aboutContainer {
+    width: 80%;
+    margin: 0 auto;
+    padding: 15vh 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    width: 450px;
+    margin-left: 5vw;
+}
+
+.title {
+    font-size: 5vh;
+}
+
+.aboutus {
+    font-size: 2.2vh;
+    color: grey;
+    width: 400px;
+}
+
+.points {
+    font-size: 2.2vh;
+    margin-top: 5vh;
+}
+
+.pointItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1vh;
+}
+
+.checkIcon {
+    font-size: 30px;
+    color: #6DD5FA;
+}
